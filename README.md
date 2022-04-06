@@ -1,3 +1,2 @@
-# VIdeoApp-W-AutoPlay
 # Video Application with autoplay feature
-## ㅇㅇ
+> 그러합니다
